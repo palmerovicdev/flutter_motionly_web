@@ -1,0 +1,29 @@
+{
+  "name": "motionly",
+  "version": "1.0.0",
+  "description": "Flutter animations made easy.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palmerovicdev/flutter_motionly_web.git"
+  },
+  "keywords": [
+    "flutter",
+    "animations"
+  ],
+  "author": "palmerodev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palmerovicdev/flutter_motionly_web/issues"
+  },
+  "homepage": "https://github.com/palmerovicdev/flutter_motionly_web#readme",
+  "dependencies": {
+    "cookie-parser": "~1.4.7",
+    "debug": "~4.4.3",
+    "express": "~5.1.0",
+    "morgan": "~1.10.1"
+  }
+}
