@@ -1,11 +1,11 @@
 {
-    "name": "Flutter Motionly - Flutter Animations Made Easy",
-    "short_name": "Flutter Motionly",
+    "name": "example",
+    "short_name": "example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Flutter Motionly is a powerful Flutter package that simplifies creating beautiful, smooth animations in your applications. Explore the demo and discover how easy animations can be.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
