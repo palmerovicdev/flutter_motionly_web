@@ -4,8 +4,7 @@
 nixPkgs = ['nodejs_20']
 
 [phases.install]
-cmds = ['npm install -g serve']
+cmds = ['npm install']
 
 [start]
-cmd = 'serve -s . -l 3000'
-
+cmd = 'npm start'
