@@ -7,5 +7,5 @@ nixPkgs = ['nodejs_20']
 cmds = ['npm install -g serve']
 
 [start]
-cmd = 'serve -s . -l 3003'
+cmd = 'serve -s . -l 3000'
 
